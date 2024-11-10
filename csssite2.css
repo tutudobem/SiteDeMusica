@@ -168,7 +168,7 @@ header .btn-contato button:hover, .hero-site button:hover{
 section.hero-site{
 
     height: 100vh;
-    background-image: url(/images/fundo.png);
+    background-image: url(images/fundo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
